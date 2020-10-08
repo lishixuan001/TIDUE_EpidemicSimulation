@@ -1,0 +1,19 @@
+Amy 3
+Amy:Carl
+Amy:Wayne
+Amy:Bob
+Bob:Amy
+Bob:Yale
+Carl:Amy
+Yale:Xcode
+Yale:Bob
+Yale:Zoo
+Xcode:Yale
+Zoo:Yale
+Dave:Fool
+Dave:Wayne
+Dave:Eason
+Eason:Dave
+Fool:Dave
+Wayne:Dave
+Wayne:Amy

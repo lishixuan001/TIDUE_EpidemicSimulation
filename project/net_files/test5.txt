@@ -1,0 +1,17 @@
+Amy None,Bob 1,Carl 1,Yale None,Dave 1,Eason None,Fool 3,Wayne None
+Amy:Bob
+Amy:Carl
+Bob:Yale
+Bob:Amy
+Carl:Amy
+Yale:Bob
+Yale:Xcode
+Yale:Zoo
+Xcode:Yale
+Zoo:Yale
+Dave:Fool
+Dave:Eason
+Eason:Dave
+Eason:Wayne
+Fool:Dave
+Wayne:Eason
